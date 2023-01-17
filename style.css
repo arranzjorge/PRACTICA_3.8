@@ -1,0 +1,44 @@
+body.body{
+    background-color: bisque;
+}
+
+h1.titulo{
+    font-weight: bolder;
+    color: brown;
+    text-align: center;
+}
+
+p.lacarta{
+    color: purple;
+    text-decoration: underline;
+    position: relative;
+    top: 50px;
+}
+
+p.elcafe{
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+p.contacto{
+    position: relative;
+    top: 150px;
+    text-align: right;
+}
+
+hr.lineaseparatoriabaja{
+    position: relative;
+    top: 160px;
+}
+
+/* estilo la carta */
+
+p.texto_lacarta{
+    color: brown;
+}
+
+hr.lacarta{
+    color: lightgray;
+}
+
