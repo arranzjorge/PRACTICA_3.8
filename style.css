@@ -4,7 +4,7 @@ body.body{
 
 h1.titulo{
     font-weight: bolder;
-    color: brown;
+    color: darkred;
     text-align: center;
 }
 
@@ -32,9 +32,7 @@ hr.lineaseparatoriabaja{
     top: 160px;
 }
 
-/* estilo la carta */
-
-p.texto_lacarta{
+p.texto_main{
     color: brown;
 }
 
@@ -42,3 +40,14 @@ hr.lacarta{
     color: lightgray;
 }
 
+p.texto_main_cont{
+    color: brown;
+    text-align: center;
+    font-weight: bolder;
+}
+
+p.contacto{
+    color: brown;
+    font-weight: bolder;
+    text-align: left;
+}
